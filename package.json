@@ -1,0 +1,14 @@
+{
+  "name": "ppt-porto-security",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "*"
+  }
+}
